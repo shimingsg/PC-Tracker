@@ -1,0 +1,16 @@
+[
+  {
+    "task": "Open Chrome and navigate to the product page for the MacBook Air M3 on Amazon.",
+    "level": "medium",
+    "file_input": false,
+    "category": "ChromeTasks",
+    "finished": true
+  },
+  {
+    "task": "Create a new file named 'diary.txt' on the desktop.",
+    "level": "easy",
+    "file_input": false,
+    "category": "FileOperationTasks",
+    "finished": true
+  }
+]
